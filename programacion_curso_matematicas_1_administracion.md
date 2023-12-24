@@ -1,4 +1,5 @@
-# convocatorias_plataforma_siiu
+# Curso Matemáticas I
+
 
 Las clases en este curso serán tomadas del repositorio cálculo que comprende:
 1. precálculo, 
